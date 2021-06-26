@@ -24,4 +24,5 @@ jobs:
           SHOW_SHORT_INFO: false
           SHOW_LANGUAGE: true
           SHOW_TIMEZONE: false
+          SHOW_LANGUAGE_PER_REPO: false
           
