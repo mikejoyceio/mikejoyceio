@@ -15,7 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "en"
-          COMMIT_BY_ME: frue
+          COMMIT_BY_ME: true
           SHOW_PROJECTS: false
           SHOW_LINES_OF_CODE: true
           SHOW_PROFILE_VIEWS: false
