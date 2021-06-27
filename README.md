@@ -1,11 +1,9 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
-
 ```text
-Morning      149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
-Daytime      185 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.17% 
-Evening      368 commits    █████████░░░░░░░░░░░░░░░░   36.15% 
-Night        316 commits    ███████░░░░░░░░░░░░░░░░░░   31.04%
+Morning      149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
+Daytime      185 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.12% 
+Evening      368 commits    █████████░░░░░░░░░░░░░░░░   36.04% 
+Night        319 commits    ███████░░░░░░░░░░░░░░░░░░   31.24%
 ```
 
 
@@ -26,5 +24,15 @@ Operating System:
 
 Mac                      16 hrs 35 mins      █████████████████████████   100.0%
 ```
+```text
+PHP                      21 repos            ████████░░░░░░░░░░░░░░░░░   32.31% 
+CSS                      15 repos            █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+HTML                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
+Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08%
+
+```
+
+
 
 <!--END_SECTION:waka-->
