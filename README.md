@@ -2,29 +2,29 @@
 
 <!--START_SECTION:waka-->
 ```text
-Morning      149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
-Daytime      185 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
-Evening      376 commits    █████████░░░░░░░░░░░░░░░░   36.5% 
-Night        320 commits    ███████░░░░░░░░░░░░░░░░░░   31.07%
+Morning      149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
+Daytime      185 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.94% 
+Evening      377 commits    █████████░░░░░░░░░░░░░░░░   36.57% 
+Night        320 commits    ███████░░░░░░░░░░░░░░░░░░   31.04%
 ```
 
 
 ```text
-Programming Languages: 
+Languages: 
 
-SCSS                     133 hrs 39 mins     ███████░░░░░░░░░░░░░░░░░░   27.58% 
-Vue.js                   118 hrs 45 mins     ██████░░░░░░░░░░░░░░░░░░░   24.51% 
-JavaScript               117 hrs 35 mins     ██████░░░░░░░░░░░░░░░░░░░   24.27% 
-ERB                      32 hrs 11 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
-Ruby                     29 hrs 29 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   6.09%
+SCSS                     133 hrs 24 mins     ███████░░░░░░░░░░░░░░░░░░   27.5% 
+Vue.js                   118 hrs 45 mins     ██████░░░░░░░░░░░░░░░░░░░   24.47% 
+JavaScript               117 hrs 35 mins     ██████░░░░░░░░░░░░░░░░░░░   24.23% 
+ERB                      31 hrs 51 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   6.57% 
+Ruby                     29 hrs 29 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   6.08%
 
 Editors: 
 
-Atom                     484 hrs 34 mins     █████████████████████████   100.0%
+Atom                     485 hrs 12 mins     █████████████████████████   100.0%
 
 Operating System: 
 
-Mac                      484 hrs 34 mins     █████████████████████████   100.0%
+Mac                      485 hrs 12 mins     █████████████████████████   100.0%
 ```
 
 <!--END_SECTION:waka-->
