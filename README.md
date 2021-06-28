@@ -2,14 +2,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Morning      149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
-Daytime      185 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
-Evening      377 commits    █████████░░░░░░░░░░░░░░░░   36.5% 
-Night        322 commits    ███████░░░░░░░░░░░░░░░░░░   31.17%
-```
-
-
-```text
 Languages: 
 
 SCSS                     133 hrs 24 mins     ███████░░░░░░░░░░░░░░░░░░   27.5% 
@@ -31,5 +23,13 @@ Operating System:
 
 Mac                      485 hrs 12 mins     █████████████████████████   100.0%
 ```
+```text
+Morning      149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
+Daytime      185 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
+Evening      377 commits    █████████░░░░░░░░░░░░░░░░   36.46% 
+Night        323 commits    ███████░░░░░░░░░░░░░░░░░░   31.24%
+```
+
+
 
 <!--END_SECTION:waka-->
