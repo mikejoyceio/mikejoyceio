@@ -2,6 +2,14 @@
 
 <!--START_SECTION:waka-->
 ```text
+Morning      149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
+Daytime      185 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
+Evening      375 commits    █████████░░░░░░░░░░░░░░░░   36.44% 
+Night        320 commits    ███████░░░░░░░░░░░░░░░░░░   31.1%
+```
+
+
+```text
 Programming Languages: 
 
 PHP                      6 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.52% 
