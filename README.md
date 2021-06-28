@@ -2,14 +2,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Morning      149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Daytime      185 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
-Evening      369 commits    █████████░░░░░░░░░░░░░░░░   36.07% 
-Night        320 commits    ███████░░░░░░░░░░░░░░░░░░   31.28%
-```
-
-
-```text
 Programming Languages: 
 
 PHP                      6 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.52% 
@@ -26,15 +18,5 @@ Operating System:
 
 Mac                      16 hrs 35 mins      █████████████████████████   100.0%
 ```
-```text
-PHP                      21 repos            ████████░░░░░░░░░░░░░░░░░   32.31% 
-CSS                      15 repos            █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-HTML                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
-Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08%
-
-```
-
-
 
 <!--END_SECTION:waka-->
