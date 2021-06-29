@@ -1,3 +1,7 @@
+## Hello 👋
+
+I'm Mike, a Frontend Developer. Right now, I'm primarily working with Vue.js, React, Gatsby, Shopify, and anything JavaScript, HTML, and (S)CSS related.
+
 ## Development Stats
 
 <!--START_SECTION:waka-->
