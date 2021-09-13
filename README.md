@@ -10,25 +10,25 @@ Why the frontend? It's a perfect mix of programming, problem solving, and creati
 ```text
 Languages: 
 
-JavaScript               135 hrs 13 mins     ████████████░░░░░░░░░░░░░   48.6% 
-Markdown                 37 hrs 19 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
-Vue.js                   29 hrs 7 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
-SCSS                     14 hrs 1 min        █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
-JSON                     12 hrs 31 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   4.5% 
-PHP                      9 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
-YAML                     8 hrs 17 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98% 
-Sass                     6 hrs 42 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
-Other                    4 hrs 22 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
-Ruby                     4 hrs 15 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53%
+JavaScript               126 hrs 55 mins     ███████████░░░░░░░░░░░░░░   47.33% 
+Markdown                 37 hrs 16 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
+Vue.js                   29 hrs 7 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
+JSON                     12 hrs 31 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
+PHP                      9 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
+SCSS                     9 hrs 4 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38% 
+YAML                     8 hrs 17 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09% 
+Sass                     6 hrs 42 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
+HTML                     5 hrs 17 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97% 
+Other                    4 hrs 26 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
 
 Editors: 
 
-Atom                     276 hrs 23 mins     ████████████████████████░   99.32% 
-Vim                      1 hr 53 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
+Atom                     266 hrs 14 mins     ████████████████████████░   99.27% 
+Vim                      1 hr 56 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
 
 Operating System: 
 
-Mac                      278 hrs 16 mins     █████████████████████████   100.0%
+Mac                      268 hrs 11 mins     █████████████████████████   100.0%
 ```
 ```text
 Morning      131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
