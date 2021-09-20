@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Mike, a frontend developer. Right now, I'm primarily working with Vue.js, React, Gatsby, Netlify, Shopify, and anything JavaScript, HTML, and (S)CSS related.
+I'm Mike, a frontend developer. At the moment, I'm primarily working with Vue.js, React, Gatsby, Netlify, Shopify, and anything JavaScript, HTML, and (S)CSS related.
 
 ## Development Stats
 
