@@ -1,36 +1,41 @@
 ## Development Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C789%20hrs%2020%20mins-blue)
+
 ```text
-Languages: 
-
-JavaScript               172 hrs             ███████░░░░░░░░░░░░░░░░░░   29.59% 
-Vue.js                   94 hrs 27 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
-SCSS                     79 hrs 35 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-TypeScript               55 hrs 12 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
-Markdown                 31 hrs 45 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
-HTML                     29 hrs 26 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
-PHP                      29 hrs 15 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
-JSON                     15 hrs 19 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64% 
-GraphQL                  12 hrs 49 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
-Ruby                     8 hrs 47 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
-
-Editors: 
-
-Atom                     576 hrs 53 mins     ████████████████████████░   99.24% 
-Vim                      4 hrs 25 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
-
-Operating System: 
-
-Mac                      581 hrs 19 mins     █████████████████████████   100.0%
-```
-```text
-Morning      227 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
-Daytime      224 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
-Evening      513 commits    ████████░░░░░░░░░░░░░░░░░   32.39% 
-Night        620 commits    █████████░░░░░░░░░░░░░░░░   39.14%
+Morning      190 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
+Daytime      242 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
+Evening      437 commits    ███████░░░░░░░░░░░░░░░░░░   28.03% 
+Night        690 commits    ███████████░░░░░░░░░░░░░░   44.26%
 ```
 
 
+📊 **This Week I Spent My Time On** 
 
+```text
+💬 Languages: 
+JavaScript               234 hrs 3 mins      █████░░░░░░░░░░░░░░░░░░░░   21.2% 
+SCSS                     214 hrs 23 mins     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
+TypeScript               192 hrs 34 mins     ████░░░░░░░░░░░░░░░░░░░░░   17.44% 
+Vue.js                   166 hrs 4 mins      ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
+HTML                     73 hrs 8 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
+PHP                      42 hrs 16 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.83% 
+JSON                     27 hrs 44 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51% 
+Markdown                 24 hrs 6 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
+GraphQL                  20 hrs 27 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85% 
+CoffeeScript             16 hrs 45 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
+
+🔥 Editors: 
+Atom                     1,003 hrs 4 mins    ████████████████████████░   96.98% 
+Unknown Editor           26 hrs 28 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
+Vim                      4 hrs 46 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+
+💻 Operating System: 
+Mac                      1,033 hrs 9 mins    █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 14/08/2022 10:10:02 UTC
 <!--END_SECTION:waka-->
