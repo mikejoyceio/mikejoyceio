@@ -26,3 +26,4 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_SHORT_INFO: false
           SHOW_TIMEZONE: false
+          SHOW_TOTAL_CODE_TIME: false
