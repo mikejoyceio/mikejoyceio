@@ -1,8 +1,6 @@
 ## Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C789%20hrs%2042%20mins-blue)
-
 ```text
 Morning      190 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
 Daytime      243 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.59% 
@@ -38,5 +36,5 @@ Mac                      1,033 hrs 9 mins    ███████████�
 ```
 
 
- Last Updated on 14/08/2022 10:31:22 UTC
+ Last Updated on 14/08/2022 10:35:22 UTC
 <!--END_SECTION:waka-->
