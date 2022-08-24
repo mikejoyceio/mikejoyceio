@@ -6,37 +6,37 @@
 ```text
 Languages: 
 
-JavaScript               422 hrs 52 mins     █████░░░░░░░░░░░░░░░░░░░░   23.34% 
-Vue.js                   377 hrs 57 mins     █████░░░░░░░░░░░░░░░░░░░░   20.86% 
-SCSS                     357 hrs 20 mins     █████░░░░░░░░░░░░░░░░░░░░   19.72% 
-TypeScript               177 hrs 56 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
-Ruby                     67 hrs 3 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-HTML                     66 hrs 47 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
-ERB                      61 hrs 3 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
-Markdown                 50 hrs 43 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
+JavaScript               423 hrs 22 mins     █████░░░░░░░░░░░░░░░░░░░░   23.31% 
+Vue.js                   381 hrs 9 mins      █████░░░░░░░░░░░░░░░░░░░░   20.98% 
+SCSS                     357 hrs 55 mins     █████░░░░░░░░░░░░░░░░░░░░   19.7% 
+TypeScript               177 hrs 56 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
+Ruby                     67 hrs 3 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
+HTML                     66 hrs 47 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.68% 
+ERB                      61 hrs 3 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36% 
+Markdown                 50 hrs 43 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
 PHP                      49 hrs 33 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-CoffeeScript             39 hrs 59 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
+CoffeeScript             39 hrs 59 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
 
 Editors: 
 
-Atom                     1,782 hrs 25 mins   ████████████████████████░   98.36% 
-Unknown Editor           25 hrs 17 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
+Atom                     1,786 hrs 52 mins   ████████████████████████░   98.36% 
+Unknown Editor           25 hrs 17 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
 Vim                      4 hrs 25 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 Operating Systems: 
 
-Mac                      1,812 hrs 8 mins    █████████████████████████   100.0%
+Mac                      1,816 hrs 35 mins   █████████████████████████   100.0%
 
 ```
 
 ```text
-Morning      189 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
+Morning      190 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
 Daytime      246 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
 Evening      454 commits    ███████░░░░░░░░░░░░░░░░░░   28.72% 
-Night        692 commits    ███████████░░░░░░░░░░░░░░   43.77%
+Night        691 commits    ███████████░░░░░░░░░░░░░░   43.71%
 ```
 
 
 
- <sub>Last Updated on 23/08/2022 18:40:51 UTC</sub>
+ <sub>Last Updated on 24/08/2022 18:45:35 UTC</sub>
 <!--END_SECTION:waka-->
