@@ -20,7 +20,7 @@ jobs:
           TIME_RANGE: all_time
           LANG_COUNT: 20
           SHOW_TIME: true
-          SHOW_TOTAL: true
+          SHOW_TOTAL: false
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
           ### commit
