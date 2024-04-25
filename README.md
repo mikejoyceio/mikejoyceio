@@ -3,8 +3,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3,551 hrs 29 mins
-
 TypeScript       1,538 hrs 31 mins██████████▓░░░░░░░░░░░░░░   42.76 %
 JavaScript       560 hrs 59 mins ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
 Vue.js           477 hrs 45 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
