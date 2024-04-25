@@ -17,5 +17,3 @@ Other            46 hrs 25 mins  ▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤�
 ```
 
 <!--END_SECTION:waka-->
-
-<img src="https://myreadme.vercel.app/api/embed/mikejoyceio?panels=commitgraph" alt="reimaginedreadme" />
