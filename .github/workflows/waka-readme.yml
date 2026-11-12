@@ -23,6 +23,6 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: false
           SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false
           ### commit
           COMMIT_MESSAGE: Update wakatime metrics
